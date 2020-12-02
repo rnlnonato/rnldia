@@ -1,0 +1,116 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="PREMIERE CLUBES">
+    <display-name lang="pt">PREMIERE CLUBES</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/121.png" />
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="PREMIERE CLUBES  HD¹">
+    <display-name lang="pt">PREMIERE CLUBES  HD¹</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="DISCOVERY ID">
+    <display-name lang="pt">DISCOVERY ID</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="CNN BRASIL">
+    <display-name lang="pt">CNN BRASIL</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="GLOBO">
+    <display-name lang="pt">GLOBO</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="MOSAICO PREMIERE HD¹">
+    <display-name lang="pt">MOSAICO PREMIERE HD¹</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="BAND SPORTS HD¹">
+    <display-name lang="pt">BAND SPORTS HD¹</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="BAND SPORTS SD¹">
+    <display-name lang="pt">BAND SPORTS SD¹</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="TNT HD²">
+    <display-name lang="pt">TNT HD²</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="TNT SERIES SD¹">
+    <display-name lang="pt">TNT SERIES SD¹</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="PREMIERE 2 HD¹">
+    <display-name lang="pt">PREMIERE 2 HD¹</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <programme start="20201202110000 -0200" stop="20201202120000 -0200" channel="PREMIERE CLUBES">
+    <title lang="pt">VT - Ponte Preta x Sampaio Corrêa</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+    <episode-num> </episode-num>
+  </programme>
+  <programme start="20201202120000 -0200" stop="20201202130000 -0200" channel="PREMIERE CLUBES">
+    <title lang="pt">VT - Paraná x Vitória</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+    <episode-num> </episode-num>
+  </programme>
+  <programme start="20201202130000 -0200" stop="20201202140000 -0200" channel="PREMIERE CLUBES">
+    <title lang="pt">CRB x CSA</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+    <episode-num> </episode-num>
+  </programme>
+  <programme start="20201202140000 -0200" stop="20201202150000 -0200" channel="PREMIERE CLUBES">
+    <title lang="pt">VT - Grêmio x Goiás</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+    <episode-num> </episode-num>
+  </programme>
+  <programme start="20201202150000 -0200" stop="20201202160000 -0200" channel="PREMIERE CLUBES">
+    <title lang="pt">VT - Vasco x Ceará</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+    <episode-num> </episode-num>
+  </programme>
+  <programme start="20201202160000 -0200" stop="20201202170000 -0200" channel="PREMIERE CLUBES">
+    <title lang="pt">VT - Fluminense x Bragantino</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+    <episode-num> </episode-num>
+  </programme>
+  <programme start="20201202170000 -0200" stop="20201202180000 -0200" channel="PREMIERE CLUBES">
+    <title lang="pt">VT - Chapecoense x Cuiabá</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+    <episode-num> </episode-num>
+  </programme>
+  <programme start="20201202180000 -0200" stop="20201202184000 -0200" channel="PREMIERE CLUBES">
+    <title lang="pt">Giro da Rodada</title>
+    <desc lang="pt">Lucas Gutierrez traz ao vivo os melhores momentos do futebol nacional e internacional, além de cobertura ao vivo de treinos, coletivas, análises táticas dos principais times do país e reportagens especiais(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <episode-num> </episode-num>
+  </programme>
+  <programme start="20201202184000 -0200" stop="20201202211000 -0200" channel="PREMIERE CLUBES">
+    <title lang="pt">Botafogo SP x Juventude - Ao Vivo</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+    <episode-num> </episode-num>
+  </programme>
+  <programme start="20201202211000 -0200" stop="20201202233000 -0200" channel="PREMIERE CLUBES">
+    <title lang="pt">América MG x Cruzeiro - Ao Vivo</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+    <episode-num> </episode-num>
+  </programme>
+  <programme start="20201202233000 -0200" stop="20201203000000 -0200" channel="PREMIERE CLUBES">
+    <title lang="pt">Giro da Rodada</title>
+    <desc lang="pt">Lucas Gutierrez traz ao vivo os melhores momentos do futebol nacional e internacional, além de cobertura ao vivo de treinos, coletivas, análises táticas dos principais times do país e reportagens especiais(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <episode-num> </episode-num>
+  </programme>
+</tv>
