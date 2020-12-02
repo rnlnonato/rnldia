@@ -1,116 +1,102 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
-  <channel id="PREMIERE CLUBES">
-    <display-name lang="pt">PREMIERE CLUBES</display-name>
-    <icon src="https://i.meuguia.tv/logos/new/121.png" />
+  <channel id="Band Sports HD BR">
+    <display-name lang="pt">Band Sports HD BR</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/bsp.png" />
     <url>http://www.meuguia.tv</url>
   </channel>
-  <channel id="PREMIERE CLUBES  HD¹">
-    <display-name lang="pt">PREMIERE CLUBES  HD¹</display-name>
-    <url>http://www.netcombo.com.br</url>
-  </channel>
-  <channel id="DISCOVERY ID">
-    <display-name lang="pt">DISCOVERY ID</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="CNN BRASIL">
-    <display-name lang="pt">CNN BRASIL</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="GLOBO">
-    <display-name lang="pt">GLOBO</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="MOSAICO PREMIERE HD¹">
-    <display-name lang="pt">MOSAICO PREMIERE HD¹</display-name>
+  <channel id="Band Sports BR">
+    <display-name lang="pt">Band Sports BR</display-name>
     <url>http://www.clarotv.com.br.EK</url>
   </channel>
-  <channel id="BAND SPORTS HD¹">
-    <display-name lang="pt">BAND SPORTS HD¹</display-name>
+  <channel id="ESPN Brasil HD BR">
+    <display-name lang="pt">ESPN Brasil HD BR</display-name>
     <url>http://www.meuguia.tv</url>
   </channel>
-  <channel id="BAND SPORTS SD¹">
-    <display-name lang="pt">BAND SPORTS SD¹</display-name>
-    <url>http://www.netcombo.com.br</url>
-  </channel>
-  <channel id="TNT HD²">
-    <display-name lang="pt">TNT HD²</display-name>
+  <channel id="ESPN HD BR">
+    <display-name lang="pt">ESPN HD BR</display-name>
     <url>http://www.meuguia.tv</url>
   </channel>
-  <channel id="TNT SERIES SD¹">
-    <display-name lang="pt">TNT SERIES SD¹</display-name>
+  <channel id="ESPN BR">
+    <display-name lang="pt">ESPN BR</display-name>
     <url>http://www.clarotv.com.br.EK</url>
   </channel>
-  <channel id="PREMIERE 2 HD¹">
-    <display-name lang="pt">PREMIERE 2 HD¹</display-name>
-    <url>http://www.netcombo.com.br</url>
+  <channel id="Fox Sports 2 HD BR">
+    <display-name lang="pt">Fox Sports 2 HD BR</display-name>
+    <url>http://www.meuguia.tv</url>
   </channel>
-  <programme start="20201202110000 -0200" stop="20201202120000 -0200" channel="PREMIERE CLUBES">
-    <title lang="pt">VT - Ponte Preta x Sampaio Corrêa</title>
+  <channel id="Globo SP HD BR">
+    <display-name lang="pt">Globo SP HD BR</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Globo News HD BR">
+    <display-name lang="pt">Globo News HD BR</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Globo RJ HD VIP BR">
+    <display-name lang="pt">Globo RJ HD VIP BR</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Premiere Clubes HD BR">
+    <display-name lang="pt">Premiere Clubes HD BR</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Record News BR">
+    <display-name lang="pt">Record News BR</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Record SP HD BR">
+    <display-name lang="pt">Record SP HD BR</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="SporTV BR">
+    <display-name lang="pt">SporTV BR</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="SporTV 2 HD BR">
+    <display-name lang="pt">SporTV 2 HD BR</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="TNT HD BR">
+    <display-name lang="pt">TNT HD BR</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <programme start="20201202190000 -0200" stop="20201202193000 -0200" channel="Band Sports HD BR">
+    <title lang="pt">Sapiando</title>
+    <desc lang="pt">Bate-papos descontraídos e intimistas com personalidades esportivas(n)</desc>
+    <credits>
+      <actor>Luizão Goulart</actor>
+      <actor>Yara Fantoni</actor>
+    </credits>
     <category lang="pt">Esporte</category>
-    <category lang="pt">Futebol</category>
+    <category lang="pt">Debate</category>
     <episode-num> </episode-num>
   </programme>
-  <programme start="20201202120000 -0200" stop="20201202130000 -0200" channel="PREMIERE CLUBES">
-    <title lang="pt">VT - Paraná x Vitória</title>
-    <category lang="pt">Esporte</category>
-    <category lang="pt">Futebol</category>
-    <episode-num> </episode-num>
-  </programme>
-  <programme start="20201202130000 -0200" stop="20201202140000 -0200" channel="PREMIERE CLUBES">
-    <title lang="pt">CRB x CSA</title>
-    <category lang="pt">Esporte</category>
-    <category lang="pt">Futebol</category>
-    <episode-num> </episode-num>
-  </programme>
-  <programme start="20201202140000 -0200" stop="20201202150000 -0200" channel="PREMIERE CLUBES">
-    <title lang="pt">VT - Grêmio x Goiás</title>
-    <category lang="pt">Esporte</category>
-    <category lang="pt">Futebol</category>
-    <episode-num> </episode-num>
-  </programme>
-  <programme start="20201202150000 -0200" stop="20201202160000 -0200" channel="PREMIERE CLUBES">
-    <title lang="pt">VT - Vasco x Ceará</title>
-    <category lang="pt">Esporte</category>
-    <category lang="pt">Futebol</category>
-    <episode-num> </episode-num>
-  </programme>
-  <programme start="20201202160000 -0200" stop="20201202170000 -0200" channel="PREMIERE CLUBES">
-    <title lang="pt">VT - Fluminense x Bragantino</title>
-    <category lang="pt">Esporte</category>
-    <category lang="pt">Futebol</category>
-    <episode-num> </episode-num>
-  </programme>
-  <programme start="20201202170000 -0200" stop="20201202180000 -0200" channel="PREMIERE CLUBES">
-    <title lang="pt">VT - Chapecoense x Cuiabá</title>
-    <category lang="pt">Esporte</category>
-    <category lang="pt">Futebol</category>
-    <episode-num> </episode-num>
-  </programme>
-  <programme start="20201202180000 -0200" stop="20201202184000 -0200" channel="PREMIERE CLUBES">
-    <title lang="pt">Giro da Rodada</title>
-    <desc lang="pt">Lucas Gutierrez traz ao vivo os melhores momentos do futebol nacional e internacional, além de cobertura ao vivo de treinos, coletivas, análises táticas dos principais times do país e reportagens especiais(n)</desc>
+  <programme start="20201202193000 -0200" stop="20201202200000 -0200" channel="Band Sports HD BR">
+    <title lang="pt">Bandsports News</title>
+    <desc lang="pt">Logo depois, ao meio dia, mais informação para o assinante Bandsports. Com uma mistura de telejornal e debate, o News 1 passa a limpo o esporte e discute o futebol. Informação, jornalismo, prioridades(n)</desc>
     <category lang="pt">Jornalismo</category>
-    <category lang="pt">Informativo</category>
+    <category lang="pt">Esportivo</category>
     <episode-num> </episode-num>
   </programme>
-  <programme start="20201202184000 -0200" stop="20201202211000 -0200" channel="PREMIERE CLUBES">
-    <title lang="pt">Botafogo SP x Juventude - Ao Vivo</title>
+  <programme start="20201202200000 -0200" stop="20201202210000 -0200" channel="Band Sports HD BR">
+    <title lang="pt">Supermotor</title>
+    <desc lang="pt">Todas às quartas o jornalista Celso Miranda reúne time de especialistas para passar a limpo tudo que acontece nas pistas, no mundo dos motores(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Automobilismo</category>
+    <episode-num> </episode-num>
+  </programme>
+  <programme start="20201202210000 -0200" stop="20201202230000 -0200" channel="Band Sports HD BR">
+    <title lang="pt">Campeonato Italiano</title>
     <category lang="pt">Esporte</category>
     <category lang="pt">Futebol</category>
     <episode-num> </episode-num>
   </programme>
-  <programme start="20201202211000 -0200" stop="20201202233000 -0200" channel="PREMIERE CLUBES">
-    <title lang="pt">América MG x Cruzeiro - Ao Vivo</title>
+  <programme start="20201202230000 -0200" stop="20201203000000 -0200" channel="Band Sports HD BR">
+    <title lang="pt">Supermotor</title>
+    <desc lang="pt">Todas às quartas o jornalista Celso Miranda reúne time de especialistas para passar a limpo tudo que acontece nas pistas, no mundo dos motores(n)</desc>
     <category lang="pt">Esporte</category>
-    <category lang="pt">Futebol</category>
-    <episode-num> </episode-num>
-  </programme>
-  <programme start="20201202233000 -0200" stop="20201203000000 -0200" channel="PREMIERE CLUBES">
-    <title lang="pt">Giro da Rodada</title>
-    <desc lang="pt">Lucas Gutierrez traz ao vivo os melhores momentos do futebol nacional e internacional, além de cobertura ao vivo de treinos, coletivas, análises táticas dos principais times do país e reportagens especiais(n)</desc>
-    <category lang="pt">Jornalismo</category>
-    <category lang="pt">Informativo</category>
+    <category lang="pt">Automobilismo</category>
     <episode-num> </episode-num>
   </programme>
 </tv>
