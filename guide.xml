@@ -1,102 +1,446 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
-  <channel id="Band Sports HD BR">
-    <display-name lang="pt">Band Sports HD BR</display-name>
+  <channel id="CANAL SONY">
+    <display-name lang="pt">CANAL SONY</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/set.png" />
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="COMEDY CENTRAL">
+    <display-name lang="pt">COMEDY CENTRAL</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/cce.png" />
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="FX">
+    <display-name lang="pt">FX</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/cfx.png" />
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="HBO">
+    <display-name lang="pt">HBO</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/hbo.png" />
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="HBO MUNDI">
+    <display-name lang="pt">HBO MUNDI</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/mxe.png" />
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="HBO XTREME">
+    <display-name lang="pt">HBO XTREME</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/map.png" />
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="MAIS GLOBOSAT">
+    <display-name lang="pt">MAIS GLOBOSAT</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="MEGAPIX">
+    <display-name lang="pt">MEGAPIX</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/mpx.png" />
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="SPACE">
+    <display-name lang="pt">SPACE</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/spa.png" />
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="VIVA">
+    <display-name lang="pt">VIVA</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/viv.png" />
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="WARNER CHANNEL">
+    <display-name lang="pt">WARNER CHANNEL</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/wbt.png" />
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="BAND SPORTS SD¹">
+    <display-name lang="pt">BAND SPORTS SD¹</display-name>
     <icon src="https://i.meuguia.tv/logos/new/bsp.png" />
     <url>http://www.meuguia.tv</url>
   </channel>
-  <channel id="Band Sports BR">
-    <display-name lang="pt">Band Sports BR</display-name>
+  <channel id="BAND SPORTS HD¹">
+    <display-name lang="pt">BAND SPORTS HD¹</display-name>
     <url>http://www.clarotv.com.br.EK</url>
   </channel>
-  <channel id="ESPN Brasil HD BR">
-    <display-name lang="pt">ESPN Brasil HD BR</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="ESPN HD BR">
-    <display-name lang="pt">ESPN HD BR</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="ESPN BR">
-    <display-name lang="pt">ESPN BR</display-name>
-    <url>http://www.clarotv.com.br.EK</url>
-  </channel>
-  <channel id="Fox Sports 2 HD BR">
-    <display-name lang="pt">Fox Sports 2 HD BR</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="Globo SP HD BR">
-    <display-name lang="pt">Globo SP HD BR</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="Globo News HD BR">
-    <display-name lang="pt">Globo News HD BR</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="Globo RJ HD VIP BR">
-    <display-name lang="pt">Globo RJ HD VIP BR</display-name>
-    <url>http://www.clarotv.com.br.EK</url>
-  </channel>
-  <channel id="Premiere Clubes HD BR">
-    <display-name lang="pt">Premiere Clubes HD BR</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="Record News BR">
-    <display-name lang="pt">Record News BR</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="Record SP HD BR">
-    <display-name lang="pt">Record SP HD BR</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="SporTV BR">
-    <display-name lang="pt">SporTV BR</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="SporTV 2 HD BR">
-    <display-name lang="pt">SporTV 2 HD BR</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="TNT HD BR">
-    <display-name lang="pt">TNT HD BR</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <programme start="20201202190000 -0200" stop="20201202193000 -0200" channel="Band Sports HD BR">
-    <title lang="pt">Sapiando</title>
-    <desc lang="pt">Bate-papos descontraídos e intimistas com personalidades esportivas(n)</desc>
+  <programme start="20201204220000 -0200" stop="20201204230000 -0200" channel="CANAL SONY">
+    <title lang="pt">Shark Tank Brasil: Negociando com Tubarões</title>
+    <desc lang="pt">Shark Tank Brasil Negociando com Tubarões levará empreendedores em busca de aporte financeiro à frente de grandes investidores(n)</desc>
     <credits>
-      <actor>Luizão Goulart</actor>
-      <actor>Yara Fantoni</actor>
+      <actor>Caito Maia</actor>
+      <actor>Camila Farani</actor>
+      <actor>João Appolinário</actor>
+      <actor>José Carlos Semenzato</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <episode-num> </episode-num>
+  </programme>
+  <programme start="20201204230000 -0200" stop="20201205000000 -0200" channel="CANAL SONY">
+    <title lang="pt">Shark Tank Brasil: Negociando com Tubarões</title>
+    <desc lang="pt">Shark Tank Brasil Negociando com Tubarões levará empreendedores em busca de aporte financeiro à frente de grandes investidores(n)</desc>
+    <credits>
+      <actor>Caito Maia</actor>
+      <actor>Camila Farani</actor>
+      <actor>João Appolinário</actor>
+      <actor>José Carlos Semenzato</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <episode-num> </episode-num>
+  </programme>
+  <programme start="20201204220400 -0200" stop="20201204222800 -0200" channel="COMEDY CENTRAL">
+    <title lang="pt">Todo Mundo Odeia O Chris</title>
+    <desc lang="pt">Quando o pai de Greg sai da cidade, Chris convida Greg para ficar em sua casa a semana toda(n)</desc>
+    <credits>
+      <director>Debbie Allen</director>
+      <actor>Chris Rock</actor>
+      <actor>Terry Crews</actor>
+      <actor>Tichina Arnold</actor>
+      <actor>Tequan Richmond</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <episode-num> </episode-num>
+  </programme>
+  <programme start="20201204222800 -0200" stop="20201204225300 -0200" channel="COMEDY CENTRAL">
+    <title lang="pt">Todo Mundo Odeia O Chris</title>
+    <desc lang="pt">Quando Doc se recusa a lhe dar um aumento, Chris sai e vai procurar um novo emprego no restaurante chinês da vizinhança. Embora esteja animado por ganhar mais, Chris logo percebe que a grama do vizinho nem sempre é mais verde(n)</desc>
+    <credits>
+      <director>Debbie Allen</director>
+      <actor>Chris Rock</actor>
+      <actor>Terry Crews</actor>
+      <actor>Tichina Arnold</actor>
+      <actor>Tequan Richmond</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <episode-num> </episode-num>
+  </programme>
+  <programme start="20201204225300 -0200" stop="20201204231900 -0200" channel="COMEDY CENTRAL">
+    <title lang="pt">Todo Mundo Odeia O Chris</title>
+    <desc lang="pt">Quando um novo aluno, Albert, chega à Escola Corleone, Chris percebe que ele tem mais coisas em comum com Albert do que apenas o fato de serem os dois únicos afro-americanos na escola(n)</desc>
+    <credits>
+      <director>Ted Wass</director>
+      <actor>Chris Rock</actor>
+      <actor>Terry Crews</actor>
+      <actor>Tichina Arnold</actor>
+      <actor>Tequan Richmond</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <episode-num> </episode-num>
+  </programme>
+  <programme start="20201204231900 -0200" stop="20201204234300 -0200" channel="COMEDY CENTRAL">
+    <title lang="pt">Todo Mundo Odeia O Chris</title>
+    <desc lang="pt">Com a chegada do Natal, a animação de Chris com o fim do ano se transforma em desânimo quando sua professora, a sra. Morello, passa uma lição de casa pedindo para que os alunos façam uma boa ação durante as férias(n)</desc>
+    <credits>
+      <director>Eyal Gordin</director>
+      <actor>Chris Rock</actor>
+      <actor>Terry Crews</actor>
+      <actor>Tichina Arnold</actor>
+      <actor>Tequan Richmond</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <episode-num> </episode-num>
+  </programme>
+  <programme start="20201204234300 -0200" stop="20201205000900 -0200" channel="COMEDY CENTRAL">
+    <title lang="pt">Todo Mundo Odeia O Chris</title>
+    <desc lang="pt">Infelizmente, enquanto esperam pelo ônibus na rodoviária Port Authority, Chris e Julius se veem envolvidos num esquema de apostas e ficam com medo de contar a Rochelle que eles perderam todo o dinheiro que tinham(n)</desc>
+    <credits>
+      <director>Ali LeRoi</director>
+      <actor>Chris Rock</actor>
+      <actor>Terry Crews</actor>
+      <actor>Tichina Arnold</actor>
+      <actor>Tequan Richmond</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <episode-num> </episode-num>
+  </programme>
+  <programme start="20201204220000 -0200" stop="20201204234000 -0200" channel="FX">
+    <title lang="pt">Vovó...Zona</title>
+    <desc lang="pt">Agente é enviado a uma cidade do Sul para recapturar fugitivo da prisão. Planejando uma tocaia decide usar a casa em frente a da namorada do bandido(n)</desc>
+    <credits>
+      <director>Raja Gosnell</director>
+      <actor>Martin Lawrence</actor>
+      <actor>Nia Long</actor>
+      <actor>Paul Giamatti</actor>
+      <actor>Terrence Howard</actor>
+    </credits>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Comédia</category>
+    <episode-num> </episode-num>
+  </programme>
+  <programme start="20201204234000 -0200" stop="20201205014500 -0200" channel="FX">
+    <title lang="pt">Homens de Honra</title>
+    <desc lang="pt">Homem negro tem o sonho de se tornar mergulhador e, por isso, se alista na marinha. Ele trabalha como cozinheiro e, posteriormente, torna-se um "nadador de resgate". Ao longo do filme, o personagem enfrenta atitudes preconceituosas(n)</desc>
+    <credits>
+      <director>George Tillman Jr.</director>
+      <actor>Robert De Niro</actor>
+      <actor>Cuba Gooding Jr.</actor>
+      <actor>Charlize Theron</actor>
+      <actor>Aunjanue Ellis</actor>
+    </credits>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Drama</category>
+    <episode-num> </episode-num>
+  </programme>
+  <programme start="20201204211000 -0200" stop="20201204233000 -0200" channel="HBO">
+    <title lang="pt">Shazam!</title>
+    <desc lang="pt">O universo cinematográfico da DC nos apresenta Billy Batson, um jovem órfão que, graças a um misterioso feiticeiro, se torna um super-herói dizendo "Shazam!"(n)</desc>
+    <credits>
+      <director>David F. Sandberg</director>
+      <actor>Zachary Levi</actor>
+      <actor>Mark Strong</actor>
+      <actor>Asher Angel</actor>
+      <actor>Jack Dylan Grazer</actor>
+    </credits>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Ação</category>
+    <episode-num> </episode-num>
+  </programme>
+  <programme start="20201204233000 -0200" stop="20201204235700 -0200" channel="HBO">
+    <title lang="pt">Vergonha</title>
+    <desc lang="pt">Jesús interpreta mal Diane, a professora de inglês, e pensa que os convidou a ele e a Nuria para sua casa de campo, mas este não é o caso(n)</desc>
+    <credits>
+      <director>Juan Cavestany</director>
+      <director>Álvaro Fernández Armero</director>
+      <actor>Javier Gutiérrez</actor>
+      <actor>Malena Alterio</actor>
+      <actor>Vito Sanz</actor>
+      <actor>Miguel Rellán</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <episode-num> </episode-num>
+  </programme>
+  <programme start="20201204235700 -0200" stop="20201205014000 -0200" channel="HBO">
+    <title lang="pt">Talk-Show - Reinventando a Comédia</title>
+    <desc lang="pt">A conservadora apresentadora de um talk-show noturno contrata uma mulher como roteirista depois de ser criticada pela falta de diversidade de sua equipe(n)</desc>
+    <credits>
+      <director>Nisha Ganatra</director>
+      <actor>John Lithgow</actor>
+      <actor>Emma Thompson</actor>
+      <actor>Reid Scott</actor>
+      <actor>Max Casella</actor>
+    </credits>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Comédia</category>
+    <episode-num> </episode-num>
+  </programme>
+  <programme start="20201204220000 -0200" stop="20201205000500 -0200" channel="HBO MUNDI">
+    <title lang="pt">Querido Menino</title>
+    <desc lang="pt">Os indicados ao Oscar® Timothée Chalamet e Steve Carell dão vida à história real de um pai lutando para salvar o filho do vício em drogas(n)</desc>
+    <credits>
+      <director>Felix Van Groeningen</director>
+      <actor>Steve Carell</actor>
+      <actor>Maura Tierney</actor>
+      <actor>Jack Dylan Grazer</actor>
+      <actor>Oakley Bull</actor>
+    </credits>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Drama</category>
+    <episode-num> </episode-num>
+  </programme>
+  <programme start="20201204212500 -0200" stop="20201204230300 -0200" channel="HBO XTREME">
+    <title lang="pt">Hardcore - Missão Extrema</title>
+    <desc lang="pt">Henry é um homem que foi misteriosamente ressuscitado por sua esposa. De repente, Henry aparece na desconhecida cidade de Moscou sem se lembrar de seu passado, cercado por assassinos e com sua suposta esposa sequestrada por Akan(n)</desc>
+    <credits>
+      <director>Ilya Naishuller</director>
+      <actor>Sharlto Copley</actor>
+      <actor>Danila Kozlovsky</actor>
+      <actor>Haley Bennett</actor>
+      <actor>Tim Roth</actor>
+    </credits>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Ação</category>
+    <episode-num> </episode-num>
+  </programme>
+  <programme start="20201204230300 -0200" stop="20201205000500 -0200" channel="HBO XTREME">
+    <title lang="pt">Warrior</title>
+    <credits>
+      <director>Loni Peristere</director>
+      <actor>Andrew Koji</actor>
+      <actor>Jason Tobin</actor>
+      <actor>Olivia Cheng</actor>
+      <actor>Kieran Bew</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Ação</category>
+    <episode-num> </episode-num>
+  </programme>
+  <programme start="20201204203000 -0200" stop="20201204223000 -0200" channel="MEGAPIX">
+    <title lang="pt">Programa Duplo: Os Parças</title>
+    <desc lang="pt">Obrigados a participar de um golpe, Toinho, Ray Van, Pilôra e Romeu precisam organizar a festa de casamento da filha de Vacário, o maior contrabandista da Rua 25 de Março(n)</desc>
+    <credits>
+      <director>Halder Gomes</director>
+      <actor>Bruno De Luca</actor>
+      <actor>Tirullipa</actor>
+      <actor>Tom Cavalcante</actor>
+      <actor>Whindersson Nunes</actor>
+    </credits>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Comédia</category>
+    <episode-num> </episode-num>
+  </programme>
+  <programme start="20201204223000 -0200" stop="20201205002000 -0200" channel="MEGAPIX">
+    <title lang="pt">Programa Duplo: Os Parças 2</title>
+    <desc lang="pt">Toinho, Ray Van e Pilôra acham que estão com a vida feita após aplicarem um golpe. Mas o tiro sai pela culatra e o único jeito de se livrarem de uma roubada é reerguer uma colônia de férias falida(n)</desc>
+    <credits>
+      <director>Cris D'amato</director>
+      <actor>Tom Cavalcante</actor>
+      <actor>Bruno De Luca</actor>
+      <actor>Tirullipa</actor>
+      <actor>Whindersson Nunes</actor>
+    </credits>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Comédia</category>
+    <episode-num>s 2 </episode-num>
+  </programme>
+  <programme start="20201204200400 -0200" stop="20201204223000 -0200" channel="SPACE">
+    <title lang="pt">Homem-aranha: De Volta Ao Lar</title>
+    <desc lang="pt">Após ajudar os Vingadores, o Homem-Aranha volta à sua rotina no Queens em Nova York, onde passa a combater apenas pequenos crimes locais. Apesar disso, quando o perigoso vilão Abutre surge, o jovem Peter Parker precisa vestir seu traje mais uma vez(n)</desc>
+    <credits>
+      <director>Jon Watts</director>
+      <actor>Tom Holland</actor>
+      <actor>Donald Glover</actor>
+      <actor>Gwyneth Paltrow</actor>
+      <actor>Jon Favreau</actor>
+    </credits>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Ação</category>
+    <episode-num> </episode-num>
+  </programme>
+  <programme start="20201204223000 -0200" stop="20201204232200 -0200" channel="SPACE">
+    <title lang="pt">The Purge</title>
+    <desc lang="pt">"The Purge" é uma série de antologia emocionante sobre um período anual de 12 horas em que todo o crime, incluindo o homicídio, é legal(n)</desc>
+    <credits>
+      <director>Tim Andrew</director>
+      <actor>Derek Luke</actor>
+      <actor>Max Martini</actor>
+      <actor>Rochelle Aytes</actor>
+      <actor>Rochelle Aytes</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Ação</category>
+    <episode-num> </episode-num>
+  </programme>
+  <programme start="20201204232200 -0200" stop="20201205001100 -0200" channel="SPACE">
+    <title lang="pt">The Purge</title>
+    <desc lang="pt">"The Purge" é uma série de antologia emocionante sobre um período anual de 12 horas em que todo o crime, incluindo o homicídio, é legal(n)</desc>
+    <credits>
+      <director>Tim Andrew</director>
+      <actor>Derek Luke</actor>
+      <actor>Max Martini</actor>
+      <actor>Rochelle Aytes</actor>
+      <actor>Rochelle Aytes</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Ação</category>
+    <episode-num> </episode-num>
+  </programme>
+  <programme start="20201204220000 -0200" stop="20201204223000 -0200" channel="VIVA">
+    <title lang="pt">A Grande Família</title>
+    <desc lang="pt">Tipicamente brasileira, a família Silva mora em um subúrbio na Zona Norte do Rio de Janeiro, convive com suas diferenças e ajuda uns aos outros a contornar as situações mais inusitadas(n)</desc>
+    <credits>
+      <director>Daneila Braga Frate</director>
+      <director>Luís Felipe Sá</director>
+      <actor>Marco Nanini</actor>
+      <actor>Marieta Severo</actor>
+      <actor>Guta Stresser</actor>
+      <actor>Lúcio Mauro Filho</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <episode-num> </episode-num>
+  </programme>
+  <programme start="20201204223000 -0200" stop="20201204230000 -0200" channel="VIVA">
+    <title lang="pt">A Grande Família</title>
+    <credits>
+      <director>Daniela Braga</director>
+      <director>Maurício Farias</director>
+      <actor>Marco Nanini</actor>
+      <actor>Marieta Severo</actor>
+      <actor>Guta Stresser</actor>
+      <actor>Lúcio Mauro Filho</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <episode-num> </episode-num>
+  </programme>
+  <programme start="20201204230000 -0200" stop="20201204234500 -0200" channel="VIVA">
+    <title lang="pt">Mulheres Apaixonadas</title>
+    <desc lang="pt">Escrita por Manoel Carlos, a novela apresenta uma galeria de histórias contemporâneas e realistas, contada por meio de personagens femininos e suas paixões(n)</desc>
+    <credits>
+      <director>José Luiz Villamarim</director>
+      <director>Marcelo Travesso</director>
+      <actor>Christiane Torloni</actor>
+      <actor>José Mayer</actor>
+      <actor>Tony Ramos</actor>
+      <actor>Rodrigo Santoro</actor>
+    </credits>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Novela</category>
+    <episode-num> </episode-num>
+  </programme>
+  <programme start="20201204234500 -0200" stop="20201205003000 -0200" channel="VIVA">
+    <title lang="pt">Chocolate com Pimenta</title>
+    <credits>
+      <director>Jorge Fernando De Medeiros Rebello</director>
+      <actor>Mariana Ximenes</actor>
+      <actor>Murilo Benício</actor>
+      <actor>Elizabeth Savalla</actor>
+      <actor>Priscila Fantin</actor>
+    </credits>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Novela</category>
+    <episode-num> </episode-num>
+  </programme>
+  <programme start="20201204203000 -0200" stop="20201204223000 -0200" channel="WARNER CHANNEL">
+    <title lang="pt">A Lenda de Tarzan</title>
+    <desc lang="pt">Na década de 30, Tarzan, aclimatado à vida em Londres em conjunto com sua esposa Jane, é chamado para retornar à selva onde passou a maior parte da sua vida onde servirá como um emissário do Parlamento Britânico(n)</desc>
+    <credits>
+      <director>David Yates</director>
+      <actor>Alexander Skarsgård</actor>
+      <actor>Rory J. Saper</actor>
+      <actor>Christian Stevens</actor>
+      <actor>Christoph Waltz</actor>
+    </credits>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Aventura</category>
+    <episode-num> </episode-num>
+  </programme>
+  <programme start="20201204223000 -0200" stop="20201205004700 -0200" channel="WARNER CHANNEL">
+    <title lang="pt">Esquadrão Suicida</title>
+    <desc lang="pt">Após a aparição do Superman, a agente Amanda está convencida que o governo americano precisa ter sua própria equipe de metahumanos(n)</desc>
+    <credits>
+      <director>David Ayer</director>
+      <actor>Will Smith</actor>
+      <actor>Jaime FitzSimons</actor>
+      <actor>Ike Barinholtz</actor>
+      <actor>Margot Robbie</actor>
+    </credits>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Ação</category>
+    <episode-num> </episode-num>
+  </programme>
+  <programme start="20201204220000 -0200" stop="20201204230000 -0200" channel="BAND SPORTS SD¹">
+    <title lang="pt">Arquibancada Bandsports</title>
+    <desc lang="pt">Arquibancada Bandsports(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Diversos</category>
+    <episode-num> </episode-num>
+  </programme>
+  <programme start="20201204230000 -0200" stop="20201205000000 -0200" channel="BAND SPORTS SD¹">
+    <title lang="pt">Tiki Taka</title>
+    <desc lang="pt">Apresentado por Mauricio Barros e comentários de Marilia Ruiz e Eduardo Tironi o programa é um mesa redonda sempre as sextas feiras para debater tudo da rodada do fim de semana(n)</desc>
+    <credits>
+      <actor>Mauricio Barros</actor>
     </credits>
     <category lang="pt">Esporte</category>
     <category lang="pt">Debate</category>
-    <episode-num> </episode-num>
-  </programme>
-  <programme start="20201202193000 -0200" stop="20201202200000 -0200" channel="Band Sports HD BR">
-    <title lang="pt">Bandsports News</title>
-    <desc lang="pt">Logo depois, ao meio dia, mais informação para o assinante Bandsports. Com uma mistura de telejornal e debate, o News 1 passa a limpo o esporte e discute o futebol. Informação, jornalismo, prioridades(n)</desc>
-    <category lang="pt">Jornalismo</category>
-    <category lang="pt">Esportivo</category>
-    <episode-num> </episode-num>
-  </programme>
-  <programme start="20201202200000 -0200" stop="20201202210000 -0200" channel="Band Sports HD BR">
-    <title lang="pt">Supermotor</title>
-    <desc lang="pt">Todas às quartas o jornalista Celso Miranda reúne time de especialistas para passar a limpo tudo que acontece nas pistas, no mundo dos motores(n)</desc>
-    <category lang="pt">Esporte</category>
-    <category lang="pt">Automobilismo</category>
-    <episode-num> </episode-num>
-  </programme>
-  <programme start="20201202210000 -0200" stop="20201202230000 -0200" channel="Band Sports HD BR">
-    <title lang="pt">Campeonato Italiano</title>
-    <category lang="pt">Esporte</category>
-    <category lang="pt">Futebol</category>
-    <episode-num> </episode-num>
-  </programme>
-  <programme start="20201202230000 -0200" stop="20201203000000 -0200" channel="Band Sports HD BR">
-    <title lang="pt">Supermotor</title>
-    <desc lang="pt">Todas às quartas o jornalista Celso Miranda reúne time de especialistas para passar a limpo tudo que acontece nas pistas, no mundo dos motores(n)</desc>
-    <category lang="pt">Esporte</category>
-    <category lang="pt">Automobilismo</category>
     <episode-num> </episode-num>
   </programme>
 </tv>
